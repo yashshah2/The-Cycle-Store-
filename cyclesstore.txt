@@ -1,0 +1,9 @@
+************************WELCOME TO CYCLE STORE*****************************
+
+We have various varieties of cycles::
+1) Kids
+2) Boys
+3) Girls
+
+Which one would you like to view? 
+	:D:D:D:D:D:D:D
